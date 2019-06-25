@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48661" started-at="2019-06-25T17:06:17Z" finished-at="2019-06-25T17:07:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48661" started-at="2019-06-25T17:06:17Z" finished-at="2019-06-25T17:07:06Z">
+      <class name="web.greyatom.LearningPlatform">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:web.greyatom.LearningPlatform@4edc67]" name="openBrowser" is-config="true" duration-ms="6990" started-at="2019-06-25T17:06:10Z" finished-at="2019-06-25T17:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="testProgram()[pri:0, instance:web.greyatom.LearningPlatform@4edc67]" name="testProgram" duration-ms="48636" started-at="2019-06-25T17:06:17Z" finished-at="2019-06-25T17:07:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProgram -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:web.greyatom.LearningPlatform@4edc67]" name="closeBrowser" is-config="true" duration-ms="2124" started-at="2019-06-25T17:07:06Z" finished-at="2019-06-25T17:07:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- web.greyatom.LearningPlatform -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
